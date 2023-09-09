@@ -1,3 +1,7 @@
 aaa
 
 them code moi ...
+
+
+
+them dong moi.. cap nhap method
